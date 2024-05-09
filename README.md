@@ -36,9 +36,9 @@ Welcome to my GitHub Page. I am Tahseen Aasif, a full-stack developer and Inform
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://w7.pngwing.com/pngs/271/444/png-transparent-angular-icon-hd-logo.png" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>Angular
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
