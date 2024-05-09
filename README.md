@@ -6,7 +6,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/tahseen_aasif">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/900px-X_icon_2.svg.png?20231002152819">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tahseen-aasif-b9680b123/">
