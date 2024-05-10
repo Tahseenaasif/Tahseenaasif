@@ -11,9 +11,6 @@
  ## Tools and technologies that I have worked with and am interested in ⚙️  
  <table width="100% height="100%" align="center">
    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-     </td>
      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
      </td>
@@ -40,9 +37,6 @@
      </td> 
    </tr>
    <tr>
-     <td align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
-     </td> 
      <td align="center">
        <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      </td>
