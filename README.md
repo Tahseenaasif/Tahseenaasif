@@ -34,10 +34,7 @@
      </td>
      <td align="center">
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-     </td> 
-      <td align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-     </td> 
+     </td>  
    </tr>
    <tr>
      <td align="center">
