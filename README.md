@@ -62,6 +62,32 @@
        <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
      </td> 
    </tr>
+   <tr>
+     <td align="center">
+       <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+     </td>
+        <td align="center">
+       <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+     </td>
+    <td align="center">
+       <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+     </td>   
+    <td align="center">
+       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+     </td> 
+       <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+     </td> 
+       <td align="center">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+     </td>  
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+     </td> 
+     <td align="center">
+       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+     </td> 
+   </tr>
 
  </table>
  
