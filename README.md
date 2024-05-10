@@ -1,5 +1,4 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tahseenaasif&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Tahseenaasif)
-<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahseen-aasif-b9680b123/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](tahseenasif@gmail.com)
@@ -12,9 +11,9 @@
  ## Tools and technologies that I have worked with and am interested in ⚙️  
  <table width="100% height="100%" align="center">
    <tr>
-      <td  align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-      </td>
+      <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+     </td>
      <td align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
      </td>
