@@ -36,21 +36,9 @@ Welcome to my GitHub Page. I am Tahseen Aasif, a full-stack developer and Inform
 [![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tahseen.aasif/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tahseen_aasif)
 
-<h4Welcome to my GitHub Page. I am Tahseen Aasif, a full-stack developer and Information Technology student. Currently, I am working as a Software Engineer intern at Schoyo Technologies. There, I have been working on Angular, Spring Boot, and Android app development using Kotlin. My responsibilities include integrating new features in backend, frontend, and Android app development. I also have pretty good experience in MERN stack development.<h4>
+<h4>Welcome to my GitHub Page. I am Tahseen Aasif, a full-stack developer and Information Technology student. Currently, I am working as a Software Engineer intern at Schoyo Technologies. There, I have been working on Angular, Spring Boot, and Android app development using Kotlin. My responsibilities include integrating new features in backend, frontend, and Android app development. I also have pretty good experience in MERN stack development.<h4>
 
- <table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin) </td>
-   </tr>
-  </table>
-  
-
-
-
-  
+ ## My favorite tools and technologies ⚙️  
 <h2> Technologies I like to work with ❤️</h2>
  <table width="100% height="100%" align="center">
    <tr>
