@@ -10,7 +10,6 @@
 <h4>Welcome to my GitHub Page. I am Tahseen Aasif, a full-stack developer and Information Technology student. Currently, I am working as a Software Engineer intern at Schoyo Technologies. There, I have been working on Angular, Spring Boot, and Android app development using Kotlin. My responsibilities include integrating new features in backend, frontend, and Android app development. I also have pretty good experience in MERN stack development.<h4>
 
  ## Tools and technologies that I have worked with and am interested in ⚙️  
-<h2> Technologies I like to work with ❤️</h2>
  <table width="100% height="100%" align="center">
    <tr>
       <td  align="center">
