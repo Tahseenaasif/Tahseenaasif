@@ -13,19 +13,19 @@
 <h2> Technologies I like to work with ❤️</h2>
  <table width="100% height="100%" align="center">
    <tr>
-      <td>
+      <td  align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-     </td>
-     <td>
+      </td>
+     <td align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
      </td>
-          <td align="center">
+       <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg" />
      </td>
       <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </td>
-          <td align="center">
+    <td align="center">
        <img alt="React" height=64px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
      </td> 
      <td align="center">
@@ -38,11 +38,11 @@
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
      </td> 
       <td align="center">
-       <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
      </td> 
    </tr>
    <tr>
-          <td align="center">
+     <td align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
      </td> 
      <td align="center">
