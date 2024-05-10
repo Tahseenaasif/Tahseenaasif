@@ -12,18 +12,18 @@
  <table width="100% height="100%" align="center">
    <tr>
       <td align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
      </td>
      <td align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
      </td>
        <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg" />
-     </td>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg" />
+       </td>
       <td align="center">
-      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    </td>
-    <td align="center">
+        <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      </td>
+     <td align="center">
        <img alt="React" height=64px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
      </td> 
      <td align="center">
