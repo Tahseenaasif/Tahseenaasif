@@ -1,34 +1,3 @@
-<div align="justify">
-<a href="https://www.instagram.com/rzashakeri/](https://www.instagram.com/tahseen_aasif/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/tahseen_aasif">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tahseen-aasif-b9680b123/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/tahseen_aasif/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-</div>
-<p></p>
-<p align="justify">
-Welcome to my GitHub Page. I am Tahseen Aasif, a full-stack developer and Information Technology student. Currently, I am working as a Software Engineer intern at Schoyo Technologies. There, I have been working on Angular, Spring Boot, and Android app development using Kotlin. My responsibilities include integrating new features in backend, frontend, and Android app development. I also have pretty good experience in MERN stack development
-</p>
-
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
-
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeazin&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yeazin)
-<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
-
-
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahseen-aasif-b9680b123/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](tahseenasif@gmail.com)
