@@ -16,8 +16,6 @@
 <a href="https://t.me/tahseen_aasif/">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-
-
 </div>
 <p></p>
 <p align="justify">
@@ -28,201 +26,153 @@ Welcome to my GitHub Page. I am Tahseen Aasif, a full-stack developer and Inform
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src='https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://w7.pngwing.com/pngs/271/444/png-transparent-angular-icon-hd-logo.png" alt="icon" width="65" height="65" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
-  </tr>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeazin&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yeazin)
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeazin/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:naz.yeasin@gmail.com)
+![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen&style=for-the-badge)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yeazin.io)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
+<h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+
+ <table align="center" width="100%" height="100%" >
    <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+     <td> 
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin) </td>
+   </tr>
+  </table>
+  
+
+
+
+  
+<h2> Technologies I like to work with ❤️</h2>
+ <table width="100% height="100%" align="center">
+   <tr>
+      <td>
+        <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     </td>
+     <td>
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+     </td>
+          <td align="center">
+       <img alt="css" height=64px src= "https://storage.caktusgroup.com/media/blog-images/drf-logo2.png">
+     </td>
+      <td align="center">
+      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+          <td align="center">
+       <img alt="React" height=64px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+     </td> 
+     <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
+     <td align="center">
+       <img alt="css" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+     </td>
+     <td align="center">
+       <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+     </td> 
+      <td align="center">
+       <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+     </td> 
+   </tr>
+   <tr>
+          <td align="center">
+       <img alt="pycahrm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+     </td> 
+     <td align="center">
+       <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+     </td>
+        <td align="center">
+       <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+     </td>
+    <td align="center">
+       <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+     </td>   
+    <td align="center">
+       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+     </td> 
+       <td align="center">
+       <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+     </td> 
+       <td align="center">
+       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+     </td>  
+    <td align="center">
+       <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+     </td> 
+     <td align="center">
+       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+     </td> 
+   </tr>
 
-## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
+ </table>
+ 
+<br>
 
 
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
 
 
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@rzashakeri/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@rzashakeri/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
+[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeazin&theme=github-compact)](https://github.com/yeazin/github-readme-activity-graph)
 
 
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/rzashakeri/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
+ 
+ 
+<h2> My Projects 📁</h2>
+<a href="https://github.com/yeazin/Movement-Pass-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
 </a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Happier&theme=default" />
+<a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Multi-Authors-advanced-Django-Blog" />
 </a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
- </a>
+ <a href="https://github.com/yeazin/Stackoverflow-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Stackoverflow-Clone" />
+</a>
+ <a href="https://github.com/yeazin/Zooming-cls">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
+</a>
+
+<br>
+<br>
+
+## Let's colab 🚀
+
+🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
+
+<p>
+  <a href="mailto:naz.yeasin@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="wa.me/01672834142" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yeazin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+</p>
 
 
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
- </a>
- 
-</details>
+<br>
 
-## Recent GitHub Activity ✅
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+<!--
+**yeazin/yeazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
+Here are some ideas to get you started:
 
-## GitHub Profile Trophy 🏆
+ 🔭 I’m currently working on ...##Python & Django
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+-->
